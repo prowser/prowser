@@ -25,3 +25,9 @@ Please help to find a beter alias (than `f***.js`) for this project. Some initia
 - ...
 - ???
 - your suggestion here!
+
+----
+
+[Why don't we use Python instead of JS?](https://www.quora.com/Why-dont-we-use-Python-instead-of-JavaScript)
+[Is it possible to add Python support to browsers?](https://www.quora.com/Is-it-possible-to-add-Python-support-to-browsers-instead-of-limiting-ourselves-to-only-javascript)
+
