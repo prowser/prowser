@@ -11,6 +11,8 @@ Prowser is a next generation browser with native Python support which aims to st
 # Poll
 Please help to find a beter alias (than `f***.js`) for this project. Some initial thoughts of mine:  
 
+- no.js
+- zero.js
 - destroy.js
 - annihilate.js
 - kill.js
